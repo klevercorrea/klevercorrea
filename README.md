@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, React e NodeJS**.
 
-- 👨‍💻 All of my projects are available here.
-
 - 📫 How to reach me **klevercorrea@icloud.com**.
 
 <p align="left">
