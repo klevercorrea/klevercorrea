@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Klever Correa</h1>
-<h3 align="center">A Jr Web Developer</h3>
+<h3 align="center">A Junior Web Developer</h3>
 
 - 🔭 I’m currently working on becoming a better developer.
 
