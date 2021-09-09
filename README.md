@@ -7,10 +7,12 @@ I'm a Biological Sciences student at the **Federal University of Rio Grande do S
 - 👨🏼‍💻 I’m currently learning **Python, NodeJS and React**.
 
 - 📫 You can reach me on:
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klevercorrea/)](https://www.linkedin.com/in/klevercorrea/) 
- 
- 
-**klever.correa@ufrgs.br**.
+
+
+
 
 
 <p align="center">
