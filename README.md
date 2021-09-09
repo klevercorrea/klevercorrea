@@ -9,9 +9,9 @@ I'm a Biological Sciences student at the **Federal University of Rio Grande do S
 - 📫 You can reach me on:
 
 
-[![Lattes Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://lattes.cnpq.br/2610859616369088)](http://lattes.cnpq.br/2610859616369088)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klevercorrea)](https://www.linkedin.com/in/klevercorrea)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lattes-blue?style=flat-square&logo=data:image/svg;base64:https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/svg/lattes.svg&logoColor=white&link=https://www.linkedin.com/in/klevercorrea/)](https://www.linkedin.com/in/klevercorrea)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-blue?style=flat-square&logo=data:image/svg;base64:https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/svg/lattes.svg&logoColor=white&link=http://lattes.cnpq.br/2610859616369088)](http://lattes.cnpq.br/2610859616369088)
 
 
 
