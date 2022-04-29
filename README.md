@@ -17,4 +17,4 @@ I'm a Biological Sciences student at the **Federal University of Rio Grande do S
 [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-F47F24?style=flat-square&logo=stackoverflow&logoColor=222426&link=https://stackoverflow.com/users/15772746/klever)](https://stackoverflow.com/users/15772746/klever)
 
 
-![JavaScript](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Sass](https://img.shields.io/badge/05122A?style=flat&logo=sass)&nbsp;
