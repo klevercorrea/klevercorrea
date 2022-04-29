@@ -16,6 +16,7 @@ I'm a Biological Sciences student at the **Federal University of Rio Grande do S
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-444857?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/klevercorrea)](https://codepen.io/klevercorrea)
 [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-F47F24?style=flat-square&logo=stackoverflow&logoColor=222426&link=https://stackoverflow.com/users/15772746/klever)](https://stackoverflow.com/users/15772746/klever)
 
-
-![Sass](https://img.shields.io/badge/-05122A?style=flat&logo=sass);
-![React](https://img.shields.io/badge/-05122A?style=flat&logo=react)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
