@@ -18,3 +18,4 @@ I'm a Biological Sciences student at the **Federal University of Rio Grande do S
 
 
 ![Sass](https://img.shields.io/badge/-05122A?style=flat&logo=sass)&nbsp;
+![React](https://img.shields.io/badge/-05122A?style=flat&logo=react)&nbsp;
