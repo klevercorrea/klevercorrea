@@ -2,7 +2,7 @@
 
 I'm a Biological Sciences student at the **Federal University of Rio Grande do Sul**, web development student and scientific initiation scholarship in the [North Coast GIS project](https://www.ufrgs.br/sig/?param1=value1?target=_blank).
 
-<a href="https://support.google.com/chrome/answer/95647?hl=es&amp;ref_topic=3421433%3F" target="_blank">
+<a href="http://google.com.br" target="_blank">Hello, world!</a>
 
 - 👨🏼‍🔬 My goal is to become a scientist and I see programming as a very useful tool in my scientific and academic career.
 
