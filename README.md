@@ -1,8 +1,6 @@
 <h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-I'm a Biological Sciences student at the **Federal University of Rio Grande do Sul**, web development student and scientific initiation scholarship in the [North Coast GIS project](https://www.ufrgs.br/sig/).
-
-%md<a href="https://google.com" target="_blank">google link</a>
+I'm a Biological Sciences student at the **Federal University of Rio Grande do Sul**, web development student and scientific initiation scholarship in the [North Coast GIS project](https://www.ufrgs.br/sig/?target=_blank).
 
 - 👨🏼‍🔬 My goal is to become a scientist and I see programming as a very useful tool in my scientific and academic career.
 
