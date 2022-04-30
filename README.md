@@ -2,9 +2,18 @@
 
 I'm a Biological Sciences student at the **Federal University of Rio Grande do Sul**, web development student and scientific initiation scholarship in the [North Coast GIS project](https://www.ufrgs.br/sig/).
 
-- 👨🏼‍🔬 My goal is to become a scientist and I see programming as a very useful tool in my scientific and academic career.
+**Languages and tools:**
 
-- 👨🏼‍💻 I’m currently learning **Python, NodeJS and React**.
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CCS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+
+
+- 👨🏼‍🔬 My goal is to become a scientist and I see programming as a very useful tool in my scientific and academic career.
 
 - 📫 You can reach me on:
 
@@ -15,8 +24,3 @@ I'm a Biological Sciences student at the **Federal University of Rio Grande do S
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/clevernotfool/)](https://www.instagram.com/clevernotfool/)
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-444857?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/klevercorrea)](https://codepen.io/klevercorrea)
 [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-F47F24?style=flat-square&logo=stackoverflow&logoColor=222426&link=https://stackoverflow.com/users/15772746/klever)](https://stackoverflow.com/users/15772746/klever)
-
-![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
