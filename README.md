@@ -2,7 +2,7 @@
 
 **`Software Developer (Backend/Frontend/DevOps)`**
 
-Full-stack developer passionate about building scalable solutions and solving complex problems. All projects are developed from scratch, from planning and design to implementing solutions that solve real-world problems.
+Full-stack developer passionate about building scalable solutions and solving complex problems.
 
    <p align="left">
       <a href="https://github.com/klevercorrea?tab=followers">
